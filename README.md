@@ -6,7 +6,7 @@
 ## 💫About Me :
 
 <div id="header">
-  <p>👋 I'm Ibtissam Al-Wannas,I have a bachelor degree in computer science</p>
+  <p>👋 I'm Ibtissam Al-Wannas, I have a bachelor degree in computer science</p>
   <p>💞️ I’m currently working at DMPSOFT as a junior Flutter Developer</p>
   <p>🌱 I’m currently learning Laravel, Flutter, Firebase, and MySQL</p>
   <p>💬 Ask me about Dart and Flutter</p>
