@@ -8,7 +8,7 @@
 
 <div id="header">
   <p>👋 I'm Ibtissam Al-Wannas, I have a bachelor degree in computer science</p>
-  <p>💞️ I’m currently working at DMPSOFT as a junior Flutter Developer</p>
+  <p>💞️ I have a year of experience as a mobile developer</p>
   <p>🌱 I’m currently learning Flutter,Dart,Firebase,PHP and MySQL</p>
   <p>💬 Ask me about Dart and Flutter</p>
   <p>📫 How to reach me ibtissamwannas21@gmail.com</p>
