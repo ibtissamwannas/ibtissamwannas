@@ -10,8 +10,8 @@
 
 ## 💫 About Me
 - 🎓 **Bachelor's in Computer Science**
-- 📱 **2 years of experience as a Mobile Developer**
-- 🌱 Currently enhancing my skills in **Flutter**, **Dart**, **Firebase**, **PHP**, and **MySQL**
+- 📱 **2+ years of experience as a Mobile Developer**
+- 🌱 Currently enhancing my skills in **Flutter**, **Dart**, **Firebase**, **PHP**, **Laravel**, and **MySQL**
 - 💬 Ask me about **Dart**, **Flutter**, or anything related to mobile development
 - 📫 Reach out to me at: **ibtissamwannas21@gmail.com**
 
@@ -32,9 +32,9 @@
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </div>
 
 ---
