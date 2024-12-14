@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>Hi there! 👋 I'm Ibtisam Al Wannas</h1>
-  <p>A passionate Mobile Developer with a Bachelor's degree in Computer Science</p>
+  <p>A passionate Mobile Developer, Fluttering through UIs with grace and Darting ahead, leaving a powerful trace. 💙</p>
 </div>
 
 ---
