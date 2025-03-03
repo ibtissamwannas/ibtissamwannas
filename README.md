@@ -1,7 +1,14 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hi there! 👋 I'm Ibtisam Al Wannas</h1>
-  <p>A passionate Mobile Developer, Fluttering through UIs with grace, Darting ahead, leaving a powerful trace. 💙</p>
+<div align="center">
+  <!-- Sequential Typing Animation -->
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&color=02569B&secondaryColor=13B9FD&width=435&lines=Hi+there!;I'm+Ibtisam+Al+Wannas&center=true&vCenter=true" alt="Sequential Animation" />
+  </a>
+  
+  <!-- Flutter-themed Subtitle -->
+  <h3>📱 <span style="color: #02569B">Flutter</span> Developer | 💙 <span style="color: #13B9FD">Dart</span> Expert</h3>
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 </div>
 
 ---
@@ -28,13 +35,7 @@
 
 ## 💻 Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,php,laravel,mysql,sqlite,github,vscode,androidstudio" />
 </div>
 
 ---
@@ -48,9 +49,9 @@
 
 ---
 
-### ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  
+  ![Flutter Flow](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=02569B&secondaryColor=13B9FD&center=true&vCenter=true&width=500&lines=🦋+Fluttering+through+UI+with+grace;🚀+Darting+ahead;💪leaving+a+powerful+trace)
+  
+---
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
