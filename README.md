@@ -51,7 +51,7 @@
 
 <div align="center">
   
-  ![Flutter Flow](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=02569B&secondaryColor=13B9FD&center=true&vCenter=true&width=500&lines=🦋+Fluttering+through+UI+with+grace;🚀+Darting+ahead;💪 leaving+a+powerful+trace)
+  ![Flutter Flow](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=02569B&secondaryColor=13B9FD&center=true&vCenter=true&width=500&lines=🦋+Fluttering+through+UI+with+grace;🚀+Darting+ahead;💪+leaving+a+powerful+trace)
   
 ---
 </div>
