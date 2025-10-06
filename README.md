@@ -18,7 +18,7 @@
 
 ## 💫 About Me
 - 🎓 **Bachelor's in Computer Science**
-- 📱 **2+ years of experience as a Mobile Developer**
+- 📱 **3+ years of experience as a Mobile Developer**
 - 🌱 Currently enhancing my skills in **Flutter**, **Dart**, **Firebase**, **PHP**, **Laravel**, and **MySQL**
 - 💬 Ask me about **Dart**, **Flutter**, or anything related to mobile development
 - 📫 Reach out to me at: **ibtissamwannas21@gmail.com**
