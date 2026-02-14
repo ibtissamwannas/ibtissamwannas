@@ -33,39 +33,19 @@
 
 # 🚀 Featured Project
 
-<div align="center">
+## 💰 Hisabi — Personal Finance App  
+Track expenses, manage budgets, and stay on top of your money with multi-currency support and AI voice transactions.
 
-## 💰 Hisabi  
-### Smart Personal Finance • Built for Clarity & Control  
+🔗 **Live:** https://hisabi.app/
 
-[![Live](https://img.shields.io/badge/Status-Live_in_Production-brightgreen?style=flat)](https://hisabi.app/)
-[![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-blueviolet?style=flat)]()
-[![CI/CD](https://img.shields.io/badge/CI/CD-Automated-black?style=flat&logo=githubactions)]()
+**Tech Stack:**  
+Flutter • Laravel • Firebase Cloud Messaging  
 
-<br/>
+**DevOps:**  
+Automated CI/CD using GitHub Actions and Fastlane
 
-*A modern personal finance app that empowers users to track expenses, manage budgets, and gain real financial clarity.*
-
-**Multi-currency support • AI voice transactions • Secure 2FA • Real-time insights**
-
-<br/>
-
-### 🛠️ Built With
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FCM-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Fastlane](https://img.shields.io/badge/Fastlane-Automated_Releases-purple?style=flat)
-
-<br/>
-
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.appower.hisabi)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.appower.hisabi)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/hisabi-%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A/id6755882238)
-
-</div>
-
 
 
 ---
