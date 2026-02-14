@@ -35,36 +35,37 @@
 
 <div align="center">
 
-## 💰 Hisabi – Personal Finance App  
-### 🔗 https://hisabi.app/
+## 💰 Hisabi  
+### Smart Personal Finance • Built for Clarity & Control  
 
-*A modern personal finance app that helps users track expenses, manage budgets, and gain financial clarity — featuring multi-currency support and AI-powered voice transaction entry.*
-
-<br/>
-
-### 🏗️ Architecture • Engineering • DevOps
-
-![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-blueviolet?style=flat)
-![Modular Codebase](https://img.shields.io/badge/Codebase-Modular-success?style=flat)
-![RESTful API](https://img.shields.io/badge/API-RESTful-orange?style=flat&logo=laravel&logoColor=white)
-![2FA Authentication](https://img.shields.io/badge/Auth-2FA-critical?style=flat)
-![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-black?style=flat&logo=githubactions)
-![Fastlane](https://img.shields.io/badge/Releases-Fastlane-purple?style=flat)
-![Performance Optimized](https://img.shields.io/badge/UI-Performance_Optimized-brightgreen?style=flat)
+[![Live](https://img.shields.io/badge/Status-Live_in_Production-brightgreen?style=flat)](https://hisabi.app/)
+[![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-blueviolet?style=flat)]()
+[![CI/CD](https://img.shields.io/badge/CI/CD-Automated-black?style=flat&logo=githubactions)]()
 
 <br/>
 
-### 🛠️ Tech Stack
+*A modern personal finance app that empowers users to track expenses, manage budgets, and gain real financial clarity.*
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+**Multi-currency support • AI voice transactions • Secure 2FA • Real-time insights**
+
+<br/>
+
+### 🛠️ Built With
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FCM-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Fastlane](https://img.shields.io/badge/Fastlane-Automated_Releases-purple?style=flat)
+
+<br/>
+
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.appower.hisabi)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/hisabi-%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A/id6755882238)
 
 </div>
+
 
 
 ---
